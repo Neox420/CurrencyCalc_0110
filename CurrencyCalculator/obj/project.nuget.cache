@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o369tafbhyHzp71CRPwt+SESQe2pVtfhUws6pq4ba0dOi3VyqdmWHqnIn3uz++2pkfwo3qk4+twxHJiri4W+Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niels\\Source\\Repos\\FsharpCurrCalc\\CurrencyCalculator\\CurrencyCalculator.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niels\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

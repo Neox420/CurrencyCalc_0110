@@ -1,0 +1,87 @@
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.fsproj.AssemblyReference.cache
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.AssemblyInfoInputs.cache
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.AssemblyInfo.fs
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.fsproj.CoreCompileInputs.cache
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/CurrencyCalculator
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/CurrencyCalculator.deps.json
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/CurrencyCalculator.runtimeconfig.json
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/CurrencyCalculator.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/CurrencyCalculator.pdb
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/FSharp.Core.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/cs/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/de/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/es/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/fr/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/it/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/ja/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/ko/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/pl/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/pt-BR/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/ru/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/tr/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/zh-Hans/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net7.0/zh-Hant/FSharp.Core.resources.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.fsproj.CopyComplete
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/refint/CurrencyCalculator.dll
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.pdb
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/CurrencyCalculator.genruntimeconfig.cache
+/Users/vukilic/Projects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net7.0/ref/CurrencyCalculator.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.exe
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.deps.json
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.runtimeconfig.json
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.pdb
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.AssemblyReference.cache
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.AssemblyInfo.fs
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.CoreCompileInputs.cache
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.CopyComplete
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\refint\CurrencyCalculator.dll
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.pdb
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.genruntimeconfig.cache
+C:\Users\Altrim Muharemi\Source\Repos\LernatelierProjekt1\CurrencyCalculator\obj\Debug\net7.0\ref\CurrencyCalculator.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.exe
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.deps.json
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.runtimeconfig.json
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\CurrencyCalculator.pdb
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.AssemblyReference.cache
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.AssemblyInfo.fs
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.CoreCompileInputs.cache
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.fsproj.CopyComplete
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\refint\CurrencyCalculator.dll
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.pdb
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\CurrencyCalculator.genruntimeconfig.cache
+C:\Users\niels\Source\Repos\FsharpCurrCalc\CurrencyCalculator\obj\Debug\net7.0\ref\CurrencyCalculator.dll
